@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { PlayCircle } from "lucide-react";
 
-import promoVideo from "../../assets/refrigerator/promo.mp4";
+import promoVideo from "../../assets/refrigerator/promo_video.mp4";
 
 export default function PromoVideo() {
   return (
