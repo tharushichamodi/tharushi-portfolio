@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Eye } from "lucide-react";
-import profile from "../assets/profile.png";
+import profile from "../assets/profile.jpeg";
 
 export function Hero() {
   return (
